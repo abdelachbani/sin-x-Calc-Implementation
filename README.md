@@ -9,8 +9,8 @@ An implementation for calculating the sine of an angle using its Taylor series e
 - [How It Works](#-how-it-works)
     - [The Mathematics: Taylor Series for Sine](#-the-mathematics-taylor-series-for-sine)
     - [The Code Implementation](#-the-code-implementation)
-- [How to Use](https://www.google.com/search?q=%23-how-to-use)
-- [Dependencies](https://www.google.com/search?q=%23-dependencies)
+- [How to Use](#-how-to-use)
+- [Dependencies](#-dependencies)
 
 -----
 
